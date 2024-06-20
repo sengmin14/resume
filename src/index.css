@@ -1,0 +1,68 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css');
+
+body {
+  margin: 0;
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 300;
+  background-color: white;
+}
+
+button {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
+  cursor: pointer;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+table,
+td {
+  text-align: left;
+}
+
+th {
+  text-align: left;
+  font-weight: 500;
+  width: 100px;
+}
+
+td {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+mark {
+  background-color: #efefef;
+}
+
+p {
+  margin: 0%;
+  line-height: 25px;
+}
+
+a {
+  color: rgba(0, 0, 0, 0.7);
+}
+a:hover {
+  color: rgba(0, 0, 0, 0.4);
+}
+
+hr {
+  border: solid 1px #f0f0f0;
+}
+
+.icons {
+  color: grey;
+  font-size: 16px;
+}
