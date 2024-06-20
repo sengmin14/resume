@@ -1,30 +1,22 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.9bdbe386.css",
-    "main.js": "/resume/static/js/main.439769b1.js",
+    "main.js": "/resume/static/js/main.3fbdfb68.js",
     "static/js/787.1ed0c42c.chunk.js": "/resume/static/js/787.1ed0c42c.chunk.js",
-    "static/media/aischool.png": "/resume/static/media/aischool.d3f6ca3d3d816a283d05.png",
+    "static/media/SDI.png": "/resume/static/media/SDI.22fbac6e601a807a2cc4.png",
     "static/media/profile.png": "/resume/static/media/profile.8e1bb5d4c494fabb3b6e.png",
     "static/media/wasabi.png": "/resume/static/media/wasabi.819a8b1098fe4d2ef2c8.png",
-    "static/media/likelion.png": "/resume/static/media/likelion.903918cee9658874b5f4.png",
-    "static/media/teoconf.webp": "/resume/static/media/teoconf.96b44910e35f12ace207.webp",
-    "static/media/aischool.md": "/resume/static/media/aischool.936632c0a52822e34b85.md",
+    "static/media/ssafy.png": "/resume/static/media/ssafy.e400fd00ddd133d2f53a.png",
     "index.html": "/resume/index.html",
-    "static/media/csletter.md": "/resume/static/media/csletter.0a5e1a0803d53ca1758d.md",
-    "static/media/blackrabbit.md": "/resume/static/media/blackrabbit.b9b2e9eda0d5e26975bb.md",
-    "static/media/likelion.md": "/resume/static/media/likelion.71e0c342a5002cd44688.md",
     "static/media/pool.md": "/resume/static/media/pool.3e50c853a3ac7c2c29e5.md",
-    "static/media/wavve.md": "/resume/static/media/wavve.44e8aec31295b5b91b26.md",
-    "static/media/wasabi.md": "/resume/static/media/wasabi.9e13028d36a8d13973d8.md",
-    "static/media/likelionCrawler.md": "/resume/static/media/likelionCrawler.2c86a784a12c8e2949d0.md",
-    "static/media/simpleThumbnail.md": "/resume/static/media/simpleThumbnail.d1e00872161dc6da704d.md",
-    "static/media/teoconf.md": "/resume/static/media/teoconf.0e9ef8cbd000c7cd3b5c.md",
+    "static/media/blackrabbit.md": "/resume/static/media/blackrabbit.d165ff86ca9e0faa5f98.md",
+    "static/media/wavve.md": "/resume/static/media/wavve.f3f1321fd52d84a8580d.md",
     "main.9bdbe386.css.map": "/resume/static/css/main.9bdbe386.css.map",
-    "main.439769b1.js.map": "/resume/static/js/main.439769b1.js.map",
+    "main.3fbdfb68.js.map": "/resume/static/js/main.3fbdfb68.js.map",
     "787.1ed0c42c.chunk.js.map": "/resume/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bdbe386.css",
-    "static/js/main.439769b1.js"
+    "static/js/main.3fbdfb68.js"
   ]
 }
