@@ -1,17 +1,14 @@
-**Device Domain**
+**1학기**
 
-- <mark>스마트TV 내재화 및 개발효율화</mark>
-  - 스마트TV 웹 개발
-  - 공용 로직 및 컴포넌트 개발을 통한 개발 효율화
+-   <mark>알고리즘 기반의 코딩 역량 강화</mark>
+    -   삼성 소프트웨어 역량 테스트 A형 취득
+    -   Vue, SpringBoot를 이용한 웹 개발
 
-**2023 Wavve Tech Internship**
+**2학기**
 
-- <mark>프로젝트 Play Reaction</makr>
-  - 실시간 시청자 감정표현 공유 프로젝트
-  - 실시간 사용자 수 표시
-  - Dynamic Polling
-- <mark>Wavve vue3 마이그레이션</makr>
-  - 확장성을 고려한 대규모 서비스 설계를 경험했습니다.
-  - 콘텐츠 상세 페이지 개발
+-   <mark>프로젝트 기반 자기주도형 학습</makr>
+    -   React를 통한 프론트엔드 개발
+    -   캐싱 처리, 렌더링 관리 등 성능 향상
+    -   확장성을 고려한 대규모 서비스 설계를 경험했습습니다.
 
 🔗 [Wavve (웨이브)](https://www.wavve.com/)
