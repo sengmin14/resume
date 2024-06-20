@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.9bdbe386.css",
-    "main.js": "/resume/static/js/main.8e8c3628.js",
+    "main.js": "/resume/static/js/main.439769b1.js",
     "static/js/787.1ed0c42c.chunk.js": "/resume/static/js/787.1ed0c42c.chunk.js",
-    "static/media/profile.png": "/resume/static/media/profile.241c0370b084c6e3f231.png",
     "static/media/aischool.png": "/resume/static/media/aischool.d3f6ca3d3d816a283d05.png",
+    "static/media/profile.png": "/resume/static/media/profile.8e1bb5d4c494fabb3b6e.png",
     "static/media/wasabi.png": "/resume/static/media/wasabi.819a8b1098fe4d2ef2c8.png",
     "static/media/likelion.png": "/resume/static/media/likelion.903918cee9658874b5f4.png",
     "static/media/teoconf.webp": "/resume/static/media/teoconf.96b44910e35f12ace207.webp",
@@ -20,11 +20,11 @@
     "static/media/simpleThumbnail.md": "/resume/static/media/simpleThumbnail.d1e00872161dc6da704d.md",
     "static/media/teoconf.md": "/resume/static/media/teoconf.0e9ef8cbd000c7cd3b5c.md",
     "main.9bdbe386.css.map": "/resume/static/css/main.9bdbe386.css.map",
-    "main.8e8c3628.js.map": "/resume/static/js/main.8e8c3628.js.map",
+    "main.439769b1.js.map": "/resume/static/js/main.439769b1.js.map",
     "787.1ed0c42c.chunk.js.map": "/resume/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bdbe386.css",
-    "static/js/main.8e8c3628.js"
+    "static/js/main.439769b1.js"
   ]
 }
