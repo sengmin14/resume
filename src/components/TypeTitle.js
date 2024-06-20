@@ -9,12 +9,11 @@ const TitleDiv = styled.div`
 `;
 
 const TEXT = [
-    '안녕하세요. 프론트엔드 개발자 최다인입니다. ',
+    '안녕하세요. 소프트웨어 엔지니어 진성민입니다. ',
     '프론트엔드 개발자라면!!! ',
     '포트폴리오 정도는 내 손으로 만들어봐야지 라는 생각을 담아  ',
     '개발중인 페이지 입니다 :) ',
 ];
-// const TEXT = ['최다인 ', 'Choi Da-in ', '崔多仁 ', 'Айсулу '];
 
 function TypeTitle() {
     const [title, setTitle] = useState('');
