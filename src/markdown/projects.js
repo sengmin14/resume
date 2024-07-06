@@ -2,7 +2,7 @@ export const work = [
     {
         id: 0,
         title: '삼성 청년 SW 아카데미',
-        date: '2023.07.06 - 현재',
+        date: '2023.07.06 - 2024.06.28',
         md: require('../markdown/project/wavve.md'),
         tag: ['JAVA', 'Spring', 'SpringBoot', 'JavaScript', 'Vue', 'React'],
         img: require('../assets/ssafy.png'),
@@ -12,7 +12,7 @@ export const work = [
         title: '삼성SDI 헝가리법인',
         date: '2019.01.07 - 2021.04.19',
         md: require('../markdown/project/pool.md'),
-        tag: ['Typescript', 'React Native', 'React Query', 'Redux', 'Webpack', 'Firebase'],
+        tag: ['ERP', 'SAP', 'SRM', 'MAXIMO'],
         img: require('../assets/SDI.png'),
     },
 ];

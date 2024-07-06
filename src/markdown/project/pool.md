@@ -1,12 +1,7 @@
-POOL : Push 알림 기반의 브랜드 메세징 서비스 Client 개발
+**극판설비기술 기술 기획 담당**
 
-- React Native, Typescript 기반 AOS, iOS, Web 크로스플랫폼 앱 개발
-- Mobile & Web Publishing
-- JWT 기반 회원 정책 설계 및 구현
-- Firebase 기반 웹 배포 및 Git Workflows 기반 CI/CD 적용
-- Android Iternal Testing 및 앱 Release
-- QA(Quality Assuarance) 및 UT(User Test) 진행
-- 서비스 프로토타입 UX/UI Design
+-   부서 내 예산 관리 및 구매 요청(ERP, SAP, SRM 사용)
+-   설비 유지 보수(BM, PM) W/O 발행(MAXIMO 사용)
+-   생산량 및 불량률 분석(MES 사용)
 
-🔗 [Github Repository](https://github.com/develo-pool/app_pool_frontend)  
-🔗 [AppStore](https://apps.apple.com/kr/app/pool/id1640180474), [PlayStore](https://play.google.com/store/apps/details?id=com.app_pool_frontend) 출시 완료
+🔗 [삼성SDI](https://www.samsungsdi.co.kr/index.html#mainTop)
