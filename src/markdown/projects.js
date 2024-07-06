@@ -12,7 +12,7 @@ export const work = [
         title: '삼성SDI 헝가리법인',
         date: '2019.01.07 - 2021.04.19',
         md: require('../markdown/project/pool.md'),
-        tag: ['ERP', 'SAP', 'SRM', 'MAXIMO'],
+        tag: ['ERP', 'SAP', 'SRM', 'MAXIMO', 'EHS'],
         img: require('../assets/SDI.png'),
     },
 ];
