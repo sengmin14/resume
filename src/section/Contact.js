@@ -28,7 +28,7 @@ function Contact({ scrollRef }) {
                     <tr>
                         <th>Blog</th>
                         <td>
-                            <a>개설 예정</a>
+                            <a></a>
                         </td>
                     </tr>
                     {/* <tr>

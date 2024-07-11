@@ -5,10 +5,14 @@ export const studies = [
     },
     {
         id: 1,
-        repo: 'sengmin14/CS-Study',
+        repo: 'sengmin14/JAVA_Study',
     },
     {
         id: 2,
+        repo: 'sengmin14/CS-Study',
+    },
+    {
+        id: 3,
         repo: 'sengmin14/Algorithm',
     },
 ];
