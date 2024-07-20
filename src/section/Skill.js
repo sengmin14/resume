@@ -30,6 +30,7 @@ function Skill({ scrollRef }) {
                         <td>
                             <Tag>SPRING BOOT</Tag>
                             <Tag>MYSQL</Tag>
+                            <Tag>MyBatis</Tag>
                             <Tag>JPA</Tag>
                         </td>
                     </tr>
