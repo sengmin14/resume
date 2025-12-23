@@ -1,11 +1,11 @@
 export const work = [
   {
     id: 0,
-    title: "와이솔",
-    date: "2024.09.23 - ",
-    md: require("../markdown/project/wisol.md"),
-    tag: ["C#", "Pyhone", ".Net", "Django"],
-    img: require("../assets/wisol.png"),
+    title: "메타빌드",
+    date: "2025.02.24 - ",
+    md: require("../markdown/project/metabuild.md"),
+    tag: ["Spring", "Vue", "OracleDB", "Apache", "Tomcat", "Jenkins"],
+    img: require("../assets/metabuild.png"),
   },
   {
     id: 1,
@@ -17,14 +17,6 @@ export const work = [
   },
   {
     id: 2,
-    title: "엠아이큐브솔루션",
-    date: "2022.12.05 - 2023.04.28",
-    md: require("../markdown/project/cube.md"),
-    tag: ["C#", ".NET", "ORACLE"],
-    img: require("../assets/CUB.jpg"),
-  },
-  {
-    id: 3,
     title: "삼성SDI 헝가리법인",
     date: "2019.01.07 - 2021.04.19",
     md: require("../markdown/project/pool.md"),
@@ -38,7 +30,7 @@ export const personal = [
     title: "AutoCazing",
     date: "2024.04.08 - 2024.05.19",
     md: require("../markdown/project/autocazing.md"),
-    tag: ["React", "ReactQuery", "SSE", "SPRING BOOT", "MY-SQL"],
+    tag: ["ReactQuery", "SSE", "SPRING BOOT", "kafka", "MSA", "MY-SQL"],
     // img: require('../assets/wasabi.png'),
   },
   {
