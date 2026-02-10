@@ -11,6 +11,7 @@ function Skill({ scrollRef }) {
                     <tr>
                         <th>Language</th>
                         <td>
+                            <Tag>C#</Tag>
                             <Tag>Javascript</Tag>
                             <Tag>JAVA</Tag>
                         </td>
@@ -20,18 +21,20 @@ function Skill({ scrollRef }) {
                         <td>
                             <Tag>React</Tag>
                             <Tag>Vue</Tag>
-                            <Tag>React Native</Tag>
-                            <Tag>HTML</Tag>
-                            <Tag>CSS</Tag>
                         </td>
                     </tr>
                     <tr>
                         <th>BackEnd</th>
                         <td>
+                            <Tag>ASP.NET</Tag>
                             <Tag>SPRING BOOT</Tag>
-                            <Tag>MYSQL</Tag>
-                            <Tag>MyBatis</Tag>
-                            <Tag>JPA</Tag>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Database</th>
+                        <td>
+                            <Tag>Oracle</Tag>
+                            <Tag>MySQL</Tag>
                         </td>
                     </tr>
                     <tr>
@@ -44,7 +47,7 @@ function Skill({ scrollRef }) {
                         <th>Tools</th>
                         <td>
                             <Tag>Git</Tag>
-                            <Tag>GitLab</Tag>
+                            <Tag>SVN</Tag>
                             <Tag>Jira</Tag>
                         </td>
                     </tr>
