@@ -7,8 +7,8 @@
 **2학기**
 
 -   <mark>프로젝트 기반 자기주도형 학습</makr>
-    -   React를 통한 프론트엔드 개발
-    -   캐싱 처리, 렌더링 관리 등 성능 향상
-    -   확장성을 고려한 대규모 서비스 설계를 경험했습니다.
+    - 빅데이터 기반 DB설계
+    - 쿼리 성능 최적화
+    - SpringBoot를 통한 REST API 설계 및 개발
 
 🔗 [SSAFY (싸피)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
